@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0px;
+	margin:0px;}
+body{
+	font-family: "微软雅黑";}
+.box{
+	width:100%;
+	height:1000px;
+	background:no-repeat center center;
+	overflow:hidden;}
+.box .text p{
+	font-size:16px;
+	color:#333;
+	line-height:1.8em;
+	margin-top:25px;}
+.box .text a{
+	font-size:16px;
+	color:#FF6700;
+	text-decoration:none;}
+.box .text .price{
+	color:#F00;
+	font-size:14px;
+	margin-top:30px;
+	margin-bottom:20px;}
+.box .text .price span{
+	font-size:36px;}
+.box1{
+	background-image:url(imgday11/imgday11/h-12.jpg);}
+.box1 .text h2{
+	font-weight:400px;
+	font-size:40px;
+	color:#212121;
+	line-height:1.6em;}
+.box .text{
+	margin-left:20%;
+	margin-top:20%;}
+.box2{
+	background-image: url(imgday11/imgday11/h-8.jpg);}
+.box2 .text{
+	float:right;
+	font-size:30px;
+	color:#FFFFFF;
+	text-align:center;}
+.box2 .text p{
+	color:#FFFFFF;}
+.box2 .text a{
+	margin:20px;}
+.box3{
+	background-image: url(imgday11/imgday11/h-13.jpg);}
+.box3 .text{
+	font-size:28px;
+	font-family:"等线";
+	text-align:center;
+	margin-left:5%;
+	margin-top:30%;}
+.box3 .text a{
+	margin:20px;}
+.box4{
+	background:#666666 url(imgday11/imgday11/bg.png)
+	no-repeat center bottom;}
+.box4 .text{
+	font-size:24px;
+	text-align:center;
+	margin-top:50px;
+	margin-left:5%;
+	color:#FFFFFF;}
+.box4 .text p{
+	color:#FFFFFF;}
+.box5{
+	background-image: url(imgday11/imgday11/h-24.jpg);}
+.box5 .text{
+	font-size:24px;
+	font-family:"等线";
+	margin-top:20%;
+	margin-left:10%;}
+.box5 .text p{
+	color:#000000;}
+.box5 .text a{
+	margin-top:20px;}
+.box6{
+	background-image: url(imgday11/imgday11/h-21.jpg);}
+.box6 .text{
+	text-align:center;
+	margin-left:5%;
+	font-size:24px;}
